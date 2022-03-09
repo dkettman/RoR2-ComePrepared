@@ -1,9 +1,6 @@
-# My first mod
+Grants a configurable amount of Dio's Best Friends at the start of a run.
+Works in multiplayer!
 
-Description.
-
-## Changelog
-
+# Changelog
 **1.0.0**
-
-* Release of my first mod.
+* Initial release
