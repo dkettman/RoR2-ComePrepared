@@ -1,8 +1,8 @@
 ﻿{
-	"name": "ExtraLives",
-	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "Grants a configurable amount of Dio's Best Friends on the start of a run.'",
+	"name": "ComePrepared",
+	"version_number": "0.1.0",
+	"website_url": "https://github.com/dkettman/RoR2-ComePrepared",
+	"description": "At the beginning of a run, will give a configurable starting health item.'",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
 		"RiskofThunder-HookGenPatcher-1.2.1"

@@ -1,5 +1,11 @@
-Grants a configurable amount of Dio's Best Friends at the start of a run.
+At the beginning of a run, will give a configurable starting health item.
 Works in multiplayer!
+
+Choose from:
+- Medkit
+- Cautious Slug
+- Monster Tooth
+- Bungus
 
 # Changelog
 **1.0.0**
